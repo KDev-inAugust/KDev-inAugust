@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-Thanks for visiting.
+Thanks for visiting. <br>
+I'm a software engineer with a backround in Web Development. <br>
 
-[Portfolio Website]([https://www.kmsoundstrategies.com/dev/])
+
+[Portfolio Site](https://www.kmsoundstrategies.com/dev/)
 <!--
 **KDev-inAugust/KDev-inAugust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
