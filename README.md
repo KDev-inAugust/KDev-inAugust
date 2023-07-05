@@ -14,6 +14,8 @@ Currently my favorite languages and frameworks include: <br>
 - Ruby on Rails
 - Active Record and Active Storage
 - PostgreSQL
+- CSS as well as Tailwind
+- Typescript
 
 
 
